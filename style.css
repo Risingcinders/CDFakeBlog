@@ -1,0 +1,56 @@
+:root {
+    --primarycolor: bisque;
+    --secondarycolor: burlywood;
+    --tercolor: red;
+    
+}
+
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: burlywood;
+}
+
+h3 {
+    background-color: burlywood;
+}
+
+h2 {
+    background-color: burlywood;
+    
+    margin: auto;
+}
+
+div {
+    border: coral;
+    margin: 10px;
+    size: 500px;
+    display: inline;
+}
+
+p {
+    background-color: cornflowerblue;
+}
+
+.sidebar {
+    background-color: teal;
+    width: 200px;
+    list-style-type: none;
+}
+
+#main {
+    background-color: crimson;
+    width: 600px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px dotted cyan ;
+}
+
+.highlight {
+    background-color: rgb(220, 238, 119);
+}
